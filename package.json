@@ -1,7 +1,7 @@
 {
   "name": "bin-ifconfig",
   "version": "0.0.0",
-  "description": "Node Getty Replacement",
+  "description": "command line interface for configuring network interfaces",
   "author": "Jacob Groundwater <groundwater@gmail.com>",
   "license": "MIT",
   "dependencies": {
