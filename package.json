@@ -5,9 +5,9 @@
   "author": "Jacob Groundwater <groundwater@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "src-sockios": "netlovers/node-src-sockios",
-    "src-ifaddrs": "netlovers/node-src-ifaddrs",
-    "src-errno": "netlovers/node-src-errno"
+    "src-sockios": "heavyk/node-src-sockios",
+    "src-ifaddrs": "heavyk/node-src-ifaddrs",
+    "src-errno": "heavyk/node-src-errno"
   },
   "bin": {
     "ifconfig": "ifconfig.js"
